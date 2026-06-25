@@ -55,7 +55,7 @@ ESP32 + MPU6050 + GPS
             │
     ┌───────┴────────┐
     │                │
-PostgreSQL      Twilio API
+PostgreSQL      Telecom API
     │                │
     ▼                ▼
 Dashboard      SMS & Voice Call
